@@ -111,13 +111,13 @@ button{
   }
   .buttons button {  
     padding: 8px 15px; 
-    font-size: 14px; 
+    font-size: 10px; 
   }  
   
   .nav-links {
     display: none;
     flex-direction: column;
-    position: absolute;
+    position: fixed;
     top: 60px;
     left: 0;
     width: 100%;
@@ -125,10 +125,12 @@ button{
     text-align: center;
     transition: all 0.3s ease-in-out;
     background:black;
+    transform: translateY(-100%);
   }
 
   .nav-links.active {
     display: flex;
+    transform: translateY(0);
   }
   .logo{
     z-index: 100;
