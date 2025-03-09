@@ -1,8 +1,6 @@
 
-<div align='center'>
-
 <h1>PaySwift</h1>
-<p>PaySwift Landing Page A clean and responsive landing page for PaySwift, a smart credit card service. It includes a modern navigation bar, a hero section with a call-to-action, and a structured layout for an elegant user experience. The page is designed to be fully responsive across all devices. </p>
+<p align='center'>PaySwift Landing Page A clean and responsive landing page for PaySwift, a smart credit card service. It includes a modern navigation bar, a hero section with a call-to-action, and a structured layout for an elegant user experience. The page is designed to be fully responsive across all devices. </p>
 ✨ Features 
   <ul>
     <li>Responsive Design – Works smoothly on desktops, tablets, and mobile devices.</li>
