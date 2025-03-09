@@ -5,8 +5,6 @@
   <ul>
     <li>Responsive Design – Works smoothly on desktops, tablets, and mobile devices.</li>
     <li> Navigation Bar – Includes menu links and a mobile-friendly hamburger menu.</li>
-    <li>Call-to-Action Section – Encourages users to engage with the service.</li>
-    <li> Smooth Hover Effects – Enhances user interaction</li>
   </ul>
   🛠 Technologies Used
   <ul>
