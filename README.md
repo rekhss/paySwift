@@ -15,4 +15,4 @@
     <li>JavaScript – Interactive elements (hamburger menu toggle)</li>
   </ul>
 
-<h4> <a href=https://rekhss.github.io/paySwift/>View Demo</a> </h4>
+<h4  align='center'> <a href=https://rekhss.github.io/paySwift/>View Demo</a> </h4>
