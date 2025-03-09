@@ -50,7 +50,7 @@ button{
   transition: 0.3s ease;
   text-decoration: none;
   transition: 0.3s;
-
+  text-size-adjust: auto;
 }
 .button:hover{
   text-decoration: none;
@@ -109,10 +109,6 @@ button{
     top: 15px;
     right: 20px;
   }
-  .buttons button {  
-    padding: 8px 15px; 
-    font-size: 10px; 
-  }  
   
   .nav-links {
     display: none;
@@ -124,7 +120,9 @@ button{
     padding: 20px 0;
     text-align: center;
     transition: all 0.3s ease-in-out;
-    background:black;
+    background: #1e1e1e;
+    gap: 30px;
+    height: 100vh;
     transform: translateY(-100%);
   }
 
