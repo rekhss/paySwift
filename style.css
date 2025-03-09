@@ -109,6 +109,10 @@ button{
     top: 15px;
     right: 20px;
   }
+  .buttons button {  
+    padding: 8px 15px; 
+    font-size: 14px; 
+  }  
   
   .nav-links {
     display: none;
