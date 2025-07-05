@@ -1,6 +1,6 @@
 # ⚡ Rekha Seervi's PaySwift
 
-Hey! I'm **Rekha Seervi** — an enthusiastic, hands-on full-stack developer in progress, passionate about designing clean and modern user interfaces. This is **PaySwift**, a fictional payment startup homepage with sleek visuals, smooth responsiveness, and mobile-friendly navigation.
+This is **PaySwift**, a fictional payment startup homepage with sleek visuals, smooth responsiveness, and mobile-friendly navigation.
 
 Inspired by modern fintech landing pages, PaySwift presents a minimal yet impactful intro to a smart credit card service. Perfect for showcasing frontend layout and responsive design skills.
 
