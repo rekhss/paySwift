@@ -1,4 +1,4 @@
-# ⚡ Rekha Seervi's PaySwift
+# ⚡ PaySwift
 
 This is **PaySwift**, a fictional payment startup homepage with sleek visuals, smooth responsiveness, and mobile-friendly navigation.
 
